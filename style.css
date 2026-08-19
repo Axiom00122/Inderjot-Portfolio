@@ -1226,7 +1226,7 @@ HERO
 
 .glass-card:hover{
 
-    transform:translateY(-15px);
+    transform:translateY(-5px);
 
     border-color:var(--primary);
 
